@@ -1,5 +1,5 @@
 ---
-title: "[]{#_heading=h.j6co13bfnerr .anchor}Basic Statistics"
+# Basic Statistics
 ---
 
 ### Descriptive Analytics and Data Preprocessing on Sales & Discounts Dataset
@@ -92,3 +92,4 @@ title: "[]{#_heading=h.j6co13bfnerr .anchor}Basic Statistics"
 -   Reflect on the importance of data preprocessing steps like
     standardization and one-hot encoding in data analysis and machine
     learning.
+
