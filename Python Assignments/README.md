@@ -1,9 +1,8 @@
 ---
-title: "[]{#_heading=h.d7pxi9ctowgv .anchor}Python Programming
-  Assignment"
+# Python Programming Assignment
 ---
 
-# Coding Exercises
+## Coding Exercises
 
 # Exercise 1: Prime Numbers
 
@@ -63,3 +62,4 @@ Please complete the coding exercises and answer the theoretical
 questions. Submit your work in a single Python (.ipynb) file for the
 coding exercises. Ensure your code is well-commented to explain your
 logic and approach. Good luck!
+
