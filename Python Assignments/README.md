@@ -23,7 +23,7 @@ Create a Python script that prints the squares of all even or odd
 numbers within the range of 100 to 200. Choose either even or odd
 numbers and document your choice in the code.
 
-**Exercise 4: Word counter**
+### Exercise 4: Word counter
 
 write a program to count the number of words in a given text.
 
@@ -44,7 +44,7 @@ Expected output:
 
 \'text.\': 1
 
-**Exercise 5: Check for Palindrome**
+### Exercise 5: Check for Palindrome
 
 Write a Python function called is_palindrome that takes a string as
 input and returns True if the string is a palindrome, and False
@@ -62,5 +62,6 @@ Please complete the coding exercises and answer the theoretical
 questions. Submit your work in a single Python (.ipynb) file for the
 coding exercises. Ensure your code is well-commented to explain your
 logic and approach. Good luck!
+
 
 
