@@ -4,7 +4,7 @@
 
 ## Coding Exercises
 
-# Exercise 1: Prime Numbers
+### Exercise 1: Prime Numbers
 
 Write a Python program that checks whether a given number is prime or
 not. A prime number is a natural number greater than 1 that has no
@@ -62,4 +62,5 @@ Please complete the coding exercises and answer the theoretical
 questions. Submit your work in a single Python (.ipynb) file for the
 coding exercises. Ensure your code is well-commented to explain your
 logic and approach. Good luck!
+
 
